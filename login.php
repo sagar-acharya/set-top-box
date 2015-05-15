@@ -1,4 +1,25 @@
-﻿<!DOCTYPE html>
+﻿<?php
+require_once('core/config.php');
+require_once('core/class/AdminController.php');
+require_once('core/class/SessionController.php');
+$sessionObject = new SessionController();
+$sessionResult = $sessionObject->isSessionExists();
+if($sessionResult==true){
+    header('Location:index.html');
+}
+if(isset($_POST['submit'])){
+    $adminObject = new AdminController();
+    $result = $adminObject->checkLogin($_POST['username'],$_POST['password']);
+    if($result!=false){
+        $sessionObject->addSessionData($result);
+        $sessionResult = $sessionObject->isSessionExists();
+        if($sessionResult==true){
+            header('Location:index.html');
+        }
+    }
+}
+?>
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
@@ -19,7 +40,7 @@
         <div class="row text-center ">
             <div class="col-md-12">
                 <br /><br />
-                <h2> Binary Admin : Login</h2>
+                <h2> Admin : Login</h2>
                
                 <h5>( Login yourself to get access )</h5>
                  <br />
@@ -33,28 +54,28 @@
                         <strong>   Enter Details To Login </strong>  
                             </div>
                             <div class="panel-body">
-                                <form role="form">
+                                <form role="form" method="POST" action="#">
                                        <br />
                                      <div class="form-group input-group">
                                             <span class="input-group-addon"><i class="fa fa-tag"  ></i></span>
-                                            <input type="text" class="form-control" placeholder="Your Username " />
+                                            <input type="text" name="username" class="form-control" placeholder="Your Username " pattern=".{5,}" required title="5 characters minimum" />
                                         </div>
                                                                               <div class="form-group input-group">
                                             <span class="input-group-addon"><i class="fa fa-lock"  ></i></span>
-                                            <input type="password" class="form-control"  placeholder="Your Password" />
+                                            <input type="password" name="password" class="form-control"  placeholder="Your Password" pattern=".{5,10}" required title="5 to 10 characters" />
                                         </div>
-                                    <div class="form-group">
+                                    <!--<div class="form-group">
                                             <label class="checkbox-inline">
                                                 <input type="checkbox" /> Remember me
                                             </label>
                                             <span class="pull-right">
                                                    <a href="#" >Forget password ? </a> 
                                             </span>
-                                        </div>
-                                     
-                                     <a href="index.html" class="btn btn-primary ">Login Now</a>
+                                        </div>-->
+
+                                     <input type="submit" name="submit" value="Login Now" class="btn btn-primary ">
                                     <hr />
-                                    Not register ? <a href="registeration.html" >click here </a> 
+                                    Not register ? <a href="registeration.php" >click here </a>
                                     </form>
                             </div>
                            
