@@ -14,7 +14,7 @@ if(isset($_POST['submit'])){
         $sessionObject->addSessionData($result);
         $sessionResult = $sessionObject->isSessionExists();
         if($sessionResult==true){
-            header('Location:index.html');
+            header('Location:search_customer.php');
         }
     }
 }

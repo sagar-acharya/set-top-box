@@ -52,4 +52,19 @@ class SessionController{
             //session_destroy();
         }
     }
+
+    public function addCustomerInSession($userData = false){
+        unset($_SESSION['customer_data']);
+        $_SESSION['customer_data'] = $userData;
+    }
+
+    public function getCustomerData(){
+        if(isset($_SESSION['customer_data'])  ){
+                return $_SESSION['customer_data'];
+        }
+        else{
+            $_SESSION['customer_data'] = '';
+            return $_SESSION['customer_data'];
+        }
+    }
 }
