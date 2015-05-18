@@ -2,138 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bca01379-45e6-43bd-b3f0-06225b3eab25" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/calligra.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/calligra.z" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/20k_c1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/20k_c2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/FAQ.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/acceptpagebreak.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/add_new_customer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/addfont.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/addlink.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/addpage.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/aliasnbpages.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/calligra.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/cell.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/changelog.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/close.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/countries.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/courier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/courierb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/courierbi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/courieri.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/cp1250.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/cp1251.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/cp1252.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/cp1253.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/cp1254.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/cp1255.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/cp1257.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/cp1258.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/cp874.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/error.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/footer.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/fpdf.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/fpdf.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/fpdf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/getstringwidth.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/getx.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/gety.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/header.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/helvetica.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/helveticab.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/helveticabi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/helveticai.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/image.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/index.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/index.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/install.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/iso-8859-1.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/iso-8859-11.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/iso-8859-15.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/iso-8859-16.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/iso-8859-2.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/iso-8859-4.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/iso-8859-5.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/iso-8859-7.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/iso-8859-9.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/koi8-r.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/koi8-u.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/line.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/link.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/ln.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/makefont.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/makefont.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu_common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/multicell.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/output.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/pageno.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/rect.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setauthor.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setautopagebreak.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setcompression.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setcreator.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setdisplaymode.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setdrawcolor.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setfillcolor.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setfont.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setfontsize.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setkeywords.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setleftmargin.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setlinewidth.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setlink.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setmargins.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setrightmargin.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setsubject.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/settextcolor.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/settitle.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/settopmargin.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setx.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/setxy.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/sety.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/symbol.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/text.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/times.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/timesb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/timesbi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/timesi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/makefont/ttfparser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto3.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto4.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto5.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto6.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto6.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto7.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/tutorial/tuto7.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/doc/write.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/class/fpdf/font/zapfdingbats.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core/checkSession.php" afterPath="$PROJECT_DIR$/checkSession.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/class/AdminController.php" afterPath="$PROJECT_DIR$/core/class/AdminController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/class/RegistrationController.php" afterPath="$PROJECT_DIR$/core/class/RegistrationController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/class/SessionController.php" afterPath="$PROJECT_DIR$/core/class/SessionController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/config.php" afterPath="$PROJECT_DIR$/core/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/class/databaseConfig.php" afterPath="$PROJECT_DIR$/core/class/databaseConfig.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add_billing_information.php" afterPath="$PROJECT_DIR$/add_billing_information.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add_new_customer.php" afterPath="$PROJECT_DIR$/add_new_customer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blank.html" afterPath="$PROJECT_DIR$/blank.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chart.html" afterPath="$PROJECT_DIR$/chart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/form.html" afterPath="$PROJECT_DIR$/form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generate_bill.php" afterPath="$PROJECT_DIR$/generate_bill.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/set-top-box.iml" afterPath="$PROJECT_DIR$/.idea/set-top-box.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/class/test.php" afterPath="$PROJECT_DIR$/core/class/test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/verify.notify.min.js" afterPath="$PROJECT_DIR$/assets/js/verify.notify.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/registeration.php" afterPath="$PROJECT_DIR$/registeration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search_customer.php" afterPath="$PROJECT_DIR$/search_customer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tab-panel.html" afterPath="$PROJECT_DIR$/tab-panel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/table.html" afterPath="$PROJECT_DIR$/table.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui.html" afterPath="$PROJECT_DIR$/ui.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="set-top-box.iws" />
@@ -157,10 +38,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="add_new_customer.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="add_new_customer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/add_new_customer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="57" selection-start="2739" selection-end="2739" vertical-scroll-proportion="0.3320158" vertical-offset="702" max-vertical-offset="3720">
+            <state line="1" column="33" selection-start="6" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="3795">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8220">
               <folding />
             </state>
           </provider>
@@ -187,7 +77,6 @@
         <option value="$PROJECT_DIR$/core/class/AdminController.php" />
         <option value="$PROJECT_DIR$/registeration.php" />
         <option value="$PROJECT_DIR$/logout.php" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/core/class/RegistrationController.php" />
         <option value="$PROJECT_DIR$/core/checkSession.php" />
         <option value="$PROJECT_DIR$/core/checkBoxNo.php" />
@@ -204,6 +93,7 @@
         <option value="$PROJECT_DIR$/generate_bill.php" />
         <option value="$PROJECT_DIR$/search_customer.php" />
         <option value="$PROJECT_DIR$/add_new_customer.php" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -353,14 +243,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="30" width="1370" height="740" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27643505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2839879" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -368,7 +258,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -426,50 +316,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/searchUser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="51" selection-start="1171" selection-end="1183" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="960">
-          <folding />
-        </state>
+        <state line="29" column="51" selection-start="1171" selection-end="1183" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="960" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/add_billing_information.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="38" selection-start="5774" selection-end="5774" vertical-scroll-proportion="0.0" vertical-offset="1869" max-vertical-offset="3255">
-          <folding />
-        </state>
+        <state line="141" column="38" selection-start="5774" selection-end="5774" vertical-scroll-proportion="0.0" vertical-offset="1869" max-vertical-offset="3255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/CustomerController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="205" column="24" selection-start="9496" selection-end="9505" vertical-scroll-proportion="0.0" vertical-offset="2679" max-vertical-offset="3210">
-          <folding>
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..bill..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..bill..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer..." />
-          </folding>
-        </state>
+        <state line="205" column="24" selection-start="9496" selection-end="9505" vertical-scroll-proportion="0.0" vertical-offset="2679" max-vertical-offset="3210" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="9" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1605">
-          <folding />
-        </state>
+        <state line="17" column="9" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1605" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logout.php">
@@ -477,7 +339,7 @@
         <state line="4" column="26" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="165" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="66" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="8220">
           <folding />
@@ -486,23 +348,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/databaseConfig.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <folding />
-        </state>
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/AdminController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="6" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="6" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/SessionController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="43" selection-start="1131" selection-end="1131" vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="900">
-          <folding />
-        </state>
+        <state line="46" column="43" selection-start="1131" selection-end="1131" vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="900" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/checkSession.php">
@@ -512,79 +368,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="6" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1290">
-          <folding />
-        </state>
+        <state line="16" column="6" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1290" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135">
-          <folding />
-        </state>
+        <state line="2" column="26" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/AdminController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="8" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="180">
-          <folding />
-        </state>
+        <state line="3" column="8" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="180" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="6" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1290">
-          <folding />
-        </state>
+        <state line="16" column="6" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1290" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135">
-          <folding />
-        </state>
+        <state line="2" column="26" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/AdminController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="8" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="180">
-          <folding />
-        </state>
+        <state line="3" column="8" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="180" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="6" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1290">
-          <folding />
-        </state>
+        <state line="16" column="6" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1290" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135">
-          <folding />
-        </state>
+        <state line="2" column="26" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/AdminController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="8" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="180">
-          <folding />
-        </state>
+        <state line="3" column="8" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="180" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="6" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1290">
-          <folding />
-        </state>
+        <state line="16" column="6" selection-start="653" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1290" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135">
-          <folding />
-        </state>
+        <state line="2" column="26" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="135" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/verify.notify.min.js">
@@ -599,23 +433,17 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="23" selection-start="3392" selection-end="3392" vertical-scroll-proportion="0.33211678" vertical-offset="1798" max-vertical-offset="7260">
-          <folding />
-        </state>
+        <state line="132" column="23" selection-start="3392" selection-end="3392" vertical-scroll-proportion="0.33211678" vertical-offset="1798" max-vertical-offset="7260" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/databaseConfig.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="165">
-          <folding />
-        </state>
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="165" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blank.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="50" selection-start="0" selection-end="5618" vertical-scroll-proportion="0.619137" vertical-offset="0" max-vertical-offset="2040">
-          <folding />
-        </state>
+        <state line="22" column="50" selection-start="0" selection-end="5618" vertical-scroll-proportion="0.619137" vertical-offset="0" max-vertical-offset="2040" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/registeration.php">
@@ -630,9 +458,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="203" column="46" selection-start="10507" selection-end="11079" vertical-scroll-proportion="0.5395257" vertical-offset="2727" max-vertical-offset="5655">
-          <folding />
-        </state>
+        <state line="203" column="46" selection-start="10507" selection-end="11079" vertical-scroll-proportion="0.5395257" vertical-offset="2727" max-vertical-offset="5655" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logout.php">
@@ -647,155 +473,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/RegistrationController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="9" selection-start="614" selection-end="1178" vertical-scroll-proportion="0.8962818" vertical-offset="142" max-vertical-offset="720">
-          <folding />
-        </state>
+        <state line="40" column="9" selection-start="614" selection-end="1178" vertical-scroll-proportion="0.8962818" vertical-offset="142" max-vertical-offset="720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/AdminController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="47" selection-start="629" selection-end="864" vertical-scroll-proportion="0.7417582" vertical-offset="0" max-vertical-offset="555">
-          <folding />
-        </state>
+        <state line="27" column="47" selection-start="629" selection-end="864" vertical-scroll-proportion="0.7417582" vertical-offset="0" max-vertical-offset="555" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/fpdf/doc/ln.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/PdfController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="40" selection-start="46" selection-end="46" vertical-scroll-proportion="0.028625954" vertical-offset="0" max-vertical-offset="1140">
-          <folding />
-        </state>
+        <state line="1" column="40" selection-start="46" selection-end="46" vertical-scroll-proportion="0.028625954" vertical-offset="0" max-vertical-offset="1140" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="6" selection-start="0" selection-end="27423" vertical-scroll-proportion="-1.7647059" vertical-offset="2235" max-vertical-offset="7200">
-          <folding />
-        </state>
+        <state line="155" column="6" selection-start="0" selection-end="27423" vertical-scroll-proportion="-1.7647059" vertical-offset="2235" max-vertical-offset="7200" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="9" selection-start="6" selection-end="15" vertical-scroll-proportion="0.028625954" vertical-offset="0" max-vertical-offset="524">
-          <folding />
-        </state>
+        <state line="1" column="9" selection-start="6" selection-end="15" vertical-scroll-proportion="0.028625954" vertical-offset="0" max-vertical-offset="524" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/standardSchemas/xhtml1-strict.dtd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="2" selection-start="3022" selection-end="3022" vertical-scroll-proportion="0.34732825" vertical-offset="1513" max-vertical-offset="14760">
-          <folding />
-        </state>
+        <state line="113" column="2" selection-start="3022" selection-end="3022" vertical-scroll-proportion="0.34732825" vertical-offset="1513" max-vertical-offset="14760" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/SessionController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="60" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-10.583333" vertical-offset="571" max-vertical-offset="1125">
-          <folding />
-        </state>
+        <state line="55" column="60" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-10.583333" vertical-offset="571" max-vertical-offset="1125" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/searchUser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="60" selection-start="1666" selection-end="1666" vertical-scroll-proportion="0.34065935" vertical-offset="414" max-vertical-offset="960">
-          <folding />
-        </state>
+        <state line="40" column="60" selection-start="1666" selection-end="1666" vertical-scroll-proportion="0.34065935" vertical-offset="414" max-vertical-offset="960" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/menu_common.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="5" selection-start="205" selection-end="205" vertical-scroll-proportion="0.13736264" vertical-offset="0" max-vertical-offset="546">
-          <folding />
-        </state>
+        <state line="5" column="5" selection-start="205" selection-end="205" vertical-scroll-proportion="0.13736264" vertical-offset="0" max-vertical-offset="546" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/class/CustomerController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="336" column="25" selection-start="14962" selection-end="14962" vertical-scroll-proportion="0.3478261" vertical-offset="4864" max-vertical-offset="6060">
-          <folding>
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..bill..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..bill..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer_stb..." />
-            <marker date="1431821843407" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..customer..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="71" selection-start="1518" selection-end="1528" vertical-scroll-proportion="0.3320158" vertical-offset="312" max-vertical-offset="8220">
-          <folding>
-            <element signature="n#style#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
+        <state line="336" column="25" selection-start="14962" selection-end="14962" vertical-scroll-proportion="0.3478261" vertical-offset="4864" max-vertical-offset="6060" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/checkSession.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="19" selection-start="25" selection-end="25" vertical-scroll-proportion="0.027472528" vertical-offset="0" max-vertical-offset="546">
-          <folding />
-        </state>
+        <state line="1" column="19" selection-start="25" selection-end="25" vertical-scroll-proportion="0.027472528" vertical-offset="0" max-vertical-offset="546" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="48" selection-start="565" selection-end="565" vertical-scroll-proportion="0.16885553" vertical-offset="120" max-vertical-offset="1605">
-          <folding />
-        </state>
+        <state line="14" column="48" selection-start="565" selection-end="565" vertical-scroll-proportion="0.16885553" vertical-offset="120" max-vertical-offset="1605" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/add_billing_information.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="57" selection-start="3069" selection-end="3069" vertical-scroll-proportion="0.44466403" vertical-offset="795" max-vertical-offset="3090">
-          <folding />
-        </state>
+        <state line="71" column="57" selection-start="3069" selection-end="3069" vertical-scroll-proportion="0.44466403" vertical-offset="795" max-vertical-offset="3090" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/generate_bill.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="57" selection-start="3460" selection-end="3460" vertical-scroll-proportion="0.45059288" vertical-offset="942" max-vertical-offset="3360">
-          <folding />
-        </state>
+        <state line="81" column="57" selection-start="3460" selection-end="3460" vertical-scroll-proportion="0.45059288" vertical-offset="942" max-vertical-offset="3360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/search_customer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="57" selection-start="2683" selection-end="2683" vertical-scroll-proportion="0.45590994" vertical-offset="657" max-vertical-offset="2550">
-          <folding />
-        </state>
+        <state line="63" column="57" selection-start="2683" selection-end="2683" vertical-scroll-proportion="0.45590994" vertical-offset="657" max-vertical-offset="2550" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/show_bill.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="33" selection-start="39" selection-end="39" vertical-scroll-proportion="0.028142588" vertical-offset="0" max-vertical-offset="7575">
-          <folding />
-        </state>
+        <state line="1" column="33" selection-start="39" selection-end="39" vertical-scroll-proportion="0.028142588" vertical-offset="0" max-vertical-offset="7575" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/add_new_customer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="57" selection-start="2739" selection-end="2739" vertical-scroll-proportion="0.3320158" vertical-offset="702" max-vertical-offset="3720">
+        <state line="1" column="33" selection-start="6" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="3795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8220">
           <folding />
         </state>
       </provider>

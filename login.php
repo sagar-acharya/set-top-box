@@ -5,7 +5,7 @@ require_once('core/class/SessionController.php');
 $sessionObject = new SessionController();
 $sessionResult = $sessionObject->isSessionExists();
 if($sessionResult==true){
-    header('Location:index.html');
+    header('Location:index.php');
 }
 if(isset($_POST['submit'])){
     $adminObject = new AdminController();

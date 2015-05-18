@@ -5,7 +5,7 @@
     $sessionObject = new SessionController();
     $sessionResult = $sessionObject->isSessionExists();
     if($sessionResult==true){
-        header('Location:index.html');
+        header('Location:index.php');
     }
     if(isset($_POST['submit'])){
         $registrationObject = new RegistrationController();

@@ -45,7 +45,7 @@ if(isset($_POST['submit'])){
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html">Welcome Admin</a>
+            <a class="navbar-brand" href="index.php">Welcome Admin</a>
         </div>
         <div style="color: white;
 padding: 15px 50px 5px 50px;
@@ -60,6 +60,8 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="logout.php" class="
                     <img src="assets/img/find_user.png" class="user-image img-responsive"/>
                 </li>
                 <?php require_once('menu_common.php'); ?>
+
+
             </ul>
 
         </div>

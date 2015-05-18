@@ -65,7 +65,7 @@ if(isset($_POST['submit'])){
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html">Welcome Admin</a>
+            <a class="navbar-brand" href="index.php">Welcome Admin</a>
         </div>
         <div style="color: white;
 padding: 15px 50px 5px 50px;
