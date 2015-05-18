@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿<?php
+require_once('checkSession.php');
+?>
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
       <meta charset="utf-8" />
@@ -30,7 +33,7 @@
   <div style="color: white;
 padding: 15px 50px 5px 50px;
 float: right;
-font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="login.html" class="btn btn-danger square-btn-adjust">Logout</a> </div>
+font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="logout.php" class="btn btn-danger square-btn-adjust">Logout</a> </div>
         </nav>   
            <!-- /. NAV TOP  -->
                 <nav class="navbar-default navbar-side" role="navigation">
@@ -60,10 +63,10 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="login.html" class="
                         <a  href="form.html"><i class="fa fa-edit fa-3x"></i> Forms </a>
                     </li>				
 					 <li  >
-                        <a   href="login.html"><i class="fa fa-bolt fa-3x"></i> Login</a>
+                        <a   href="login.php"><i class="fa fa-bolt fa-3x"></i> Login</a>
                     </li>	
                      <li  >
-                        <a   href="registeration.html"><i class="fa fa-laptop fa-3x"></i> Registeration</a>
+                        <a   href="registeration.php"><i class="fa fa-laptop fa-3x"></i> Registeration</a>
                     </li>	
 					                   
                     <li>

@@ -1,4 +1,19 @@
-﻿<!DOCTYPE html>
+﻿<?php
+    require_once('core/config.php');
+    require_once('core/class/RegistrationController.php');
+    require_once('core/class/SessionController.php');
+    $sessionObject = new SessionController();
+    $sessionResult = $sessionObject->isSessionExists();
+    if($sessionResult==true){
+        header('Location:index.php');
+    }
+    if(isset($_POST['submit'])){
+        $registrationObject = new RegistrationController();
+        $result = $registrationObject->addNewUser($_POST['name'],$_POST['username'],$_POST['email'],$_POST['password']);
+        echo $result;
+    }
+?>
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
@@ -19,7 +34,7 @@
         <div class="row text-center  ">
             <div class="col-md-12">
                 <br /><br />
-                <h2> Binary Admin : Register</h2>
+                <h2> Admin : Register</h2>
                
                 <h5>( Register yourself to get access )</h5>
                  <br />
@@ -33,32 +48,27 @@
                         <strong>  New User ? Register Yourself </strong>  
                             </div>
                             <div class="panel-body">
-                                <form role="form">
+                                <form role="form" action="#" method="POST">
 <br/>
-                                        <div class="form-group input-group">
+                                      <div class="form-group input-group">
                                             <span class="input-group-addon"><i class="fa fa-circle-o-notch"  ></i></span>
-                                            <input type="text" class="form-control" placeholder="Your Name" />
+                                            <input type="text" name="name" class="form-control" placeholder="Your Name" pattern=".{3,}"   required title="3 characters minimum" />
                                         </div>
                                      <div class="form-group input-group">
                                             <span class="input-group-addon"><i class="fa fa-tag"  ></i></span>
-                                            <input type="text" class="form-control" placeholder="Desired Username" />
+                                            <input type="text" name="username" class="form-control" placeholder="Desired Username" pattern=".{5,}" required title="5 characters minimum"/>
                                         </div>
-                                         <div class="form-group input-group">
+                                     <div class="form-group input-group">
                                             <span class="input-group-addon">@</span>
-                                            <input type="text" class="form-control" placeholder="Your Email" />
+                                            <input type="email" name="email" class="form-control" placeholder="Your Email" required/>
                                         </div>
                                       <div class="form-group input-group">
                                             <span class="input-group-addon"><i class="fa fa-lock"  ></i></span>
-                                            <input type="password" class="form-control" placeholder="Enter Password" />
+                                            <input type="password" name="password" class="form-control" placeholder="Enter Password" pattern=".{5,10}" required title="5 to 10 characters"/>
                                         </div>
-                                     <div class="form-group input-group">
-                                            <span class="input-group-addon"><i class="fa fa-lock"  ></i></span>
-                                            <input type="password" class="form-control" placeholder="Retype Password" />
-                                        </div>
-                                     
-                                     <a href="index.html" class="btn btn-success ">Register Me</a>
+                                    <input type="submit" name="submit" class="submit btn btn-success">
                                     <hr />
-                                    Already Registered ?  <a href="login.html" >Login here</a>
+                                    Already Registered ?  <a href="login.php" >Login here</a>
                                     </form>
                             </div>
                            
@@ -73,12 +83,14 @@
      <!-- SCRIPTS -AT THE BOTOM TO REDUCE THE LOAD TIME-->
     <!-- JQUERY SCRIPTS -->
     <script src="assets/js/jquery-1.10.2.js"></script>
+    <!-- Validation SCRIPTS -->
+<!--    <script src="assets/js/verify.notify.min.js"></script>-->
       <!-- BOOTSTRAP SCRIPTS -->
     <script src="assets/js/bootstrap.min.js"></script>
     <!-- METISMENU SCRIPTS -->
     <script src="assets/js/jquery.metisMenu.js"></script>
       <!-- CUSTOM SCRIPTS -->
-    <script src="assets/js/custom.js"></script>
+<!--    <script src="assets/js/custom.js"></script>-->
    
 </body>
 </html>
